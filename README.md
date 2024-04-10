@@ -12,7 +12,7 @@
 <p>
 <br>
   
-![](https://github-readme-stats.vercel.app/api?username=shin-jae-uk&include_all_commits=true&custom_title=Jay's&nbsp;GitHub&nbsp;👀&show_icons=true&theme=transparent)
+![](https://github-readme-stats-eta-ten-40.vercel.app/api?username=shin-jae-uk&include_all_commits=true&custom_title=Jay's&nbsp;GitHub&nbsp;👀&show_icons=true&theme=transparent)
 
 <br>
 <h4>
