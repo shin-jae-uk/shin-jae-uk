@@ -1,10 +1,15 @@
-### Hi there 👋
 
+#### 어제보다 나은 오늘을 보내는, 성장형 개발자가 되고 싶어요 👋 
+<img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=iOS&logoColor=000000"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/SwiftUI-0078D4?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=000000"/></a>
+<br>
+<br>
+![](https://github-readme-stats.vercel.app/api?username=shin-jae-uk&custom_title=Jay's&nbsp;GitHub&nbsp;👀&show_icons=true&theme=transparent)
+<br>
+##### 📫 How to contact me: 
+<img src="https://img.shields.io/badge/shinju1412@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>   <a href="https://www.linkedin.com/in/jaeuk-shin/" target="_blank"><img src="https://img.shields.io/badge/ Jay Shin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
+
+---
 <!--
-**shin-jae-uk/shin-jae-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
