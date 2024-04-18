@@ -8,7 +8,9 @@
 <img src="https://img.shields.io/badge/SwiftUI-0078D4?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a> 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a> 
+<!--
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=000000"/></a>
+-->
 <p>
 <br>
   
